@@ -1,0 +1,4 @@
+.DS_store
+junit.xml
+coverage
+node_modules
